@@ -1,0 +1,10 @@
+h1,p
+{
+    color: black;
+}
+
+#center_text
+{
+    text-align: center;
+    border:1px solid black;
+}
